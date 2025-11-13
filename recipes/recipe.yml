@@ -24,7 +24,6 @@ modules:
     install:
       packages:
         - emacs-gtk+x11
-        - wireshark
         # - micro
         # - starship
     remove:
