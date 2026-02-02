@@ -23,7 +23,7 @@ modules:
         # - atim/starship
     install:
       packages:
-        - emacs-gtk+x11
+        - emacs
         # - micro
         # - starship
     remove:
